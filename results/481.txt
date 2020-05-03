@@ -1,0 +1,56 @@
+/home/ak:
+total 44
+-rw-rw-r-- 1 ak   ak      0 May  3 19:30 481.txt
+-rw------- 1 root root 1123 Apr 20 18:43 .bash_history
+-rw-r--r-- 1 ak   ak    220 Mar 27 18:34 .bash_logout
+-rw-r--r-- 1 ak   ak   3771 Mar 27 18:34 .bashrc
+drwx------ 3 ak   ak   4096 Apr 18 22:27 .cache
+drwx------ 3 ak   ak   4096 Apr 18 22:27 .config
+drwx------ 3 ak   ak   4096 Mar 27 18:43 .gnupg
+drwxrwxr-x 3 ak   ak   4096 Apr 18 19:42 .local
+-rw-r--r-- 1 ak   ak    807 Mar 27 18:34 .profile
+-rwxrwxr-x 1 ak   ak    654 May  3 19:30 script_4.8.sh
+-rwxrwxr-x 1 ak   ak     39 Apr 23 21:18 script.sh
+-rw-r--r-- 1 ak   ak      0 Mar 27 18:45 .sudo_as_admin_successful
+-rw------- 1 ak   ak    859 Apr 18 19:37 .viminfo
+
+/home/ak/.cache:
+total 4
+drwx------ 2 ak ak 4096 Apr 18 22:32 mc
+-rw-r--r-- 1 ak ak    0 Mar 27 18:43 motd.legal-displayed
+
+/home/ak/.cache/mc:
+total 4
+-rw-rw-r-- 1 ak ak 35 Apr 18 22:32 Tree
+
+/home/ak/.config:
+total 4
+drwx------ 2 ak ak 4096 Apr 18 22:32 mc
+
+/home/ak/.config/mc:
+total 4
+-rw-rw-r-- 1 ak ak 3428 Apr 18 22:32 ini
+-rw-rw-r-- 1 ak ak    0 Apr 18 22:27 panels.ini
+
+/home/ak/.gnupg:
+total 4
+drwx------ 2 ak ak 4096 Mar 27 18:43 private-keys-v1.d
+
+/home/ak/.gnupg/private-keys-v1.d:
+total 0
+
+/home/ak/.local:
+total 4
+drwx------ 4 ak ak 4096 Apr 18 22:27 share
+
+/home/ak/.local/share:
+total 8
+drwx------ 2 ak ak 4096 Apr 18 22:32 mc
+drwx------ 2 ak ak 4096 Apr 18 19:42 nano
+
+/home/ak/.local/share/mc:
+total 4
+-rw------- 1 ak ak 108 Apr 18 22:32 history
+
+/home/ak/.local/share/nano:
+total 0
